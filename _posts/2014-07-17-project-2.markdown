@@ -1,15 +1,15 @@
 ---
-title: Escape
-subtitle: Website Design
+title: TODO App
+subtitle: Full stack TODO app
 layout: default
 modal-id: 2
 date: 2014-07-17
 img: escape.png
 thumbnail: escape-thumbnail.png
 alt: image-alt
-project-date: April 2014
+project-date: April 2023
 client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+category: FullStack Development
+description: A TODO app built with React.js, Springboot, and MongoDB
+url: https://github.com/Sarvesh27Sharma/todo-app
 ---
