@@ -4,12 +4,12 @@ subtitle: Full stack TODO app
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
+img: todolist.png
+thumbnail: todolist-thumbnail.jpg
 alt: image-alt
 project-date: April 2023
-client: Start Bootstrap
+client: Personal Project
 category: FullStack Development
 description: A TODO app built with React.js, Springboot, and MongoDB
-url: https://github.com/Sarvesh27Sharma/todo-app
+link: https://github.com/Sarvesh27Sharma/todo-app
 ---
