@@ -1,0 +1,15 @@
+---
+title: Receipe API
+subtitle: Backend API for a receipe app
+layout: default
+modal-id: 1
+date: 2022-12-01
+img: receipes.jpg
+thumbnail: receipes-thumbnail.jpg
+alt: image-alt
+project-date: December 2022
+client: Personal Project
+category: Back end development
+description: A backend API built with Springboot and inbuild h2 database
+link: https://github.com/Sarvesh27Sharma/ReceipesApi
+---
