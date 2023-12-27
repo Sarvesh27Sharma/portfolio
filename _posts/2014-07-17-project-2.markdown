@@ -11,5 +11,5 @@ project-date: April 2023
 client: Personal Project
 category: FullStack Development
 description: A TODO app built with React.js, Springboot, and MongoDB
-link: https://github.com/Sarvesh27Sharma/todo-app
+link: https://github.com/Sarvesh27Sharma/todo-application
 ---
