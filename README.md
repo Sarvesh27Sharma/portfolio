@@ -15,12 +15,12 @@ To run this site in a Jekyll dev environment, from the root of this repo do:
 bundle exec jekyll serve
 ```
 
+The site will be available at http://localhost:4000/portfolio/
 ## TO DO List:
-- [] Add blogs
+- [] Link blogs
 - [] Update about me styling, content and add a picture
 - [x] Add resume
 - [] Fix contact form issue
 - [] Add Google Analytics
 - [] Add Disqus
-- [] Fix "-->" in blog posts
 
