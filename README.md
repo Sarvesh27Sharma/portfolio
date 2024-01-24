@@ -18,7 +18,7 @@ bundle exec jekyll serve
 ## TO DO List:
 - [] Add blogs
 - [] Update about me styling, content and add a picture
-- [] Add resume
+- [x] Add resume
 - [] Fix contact form issue
 - [] Add Google Analytics
 - [] Add Disqus
